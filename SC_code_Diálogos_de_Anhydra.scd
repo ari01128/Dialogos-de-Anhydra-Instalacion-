@@ -2,12 +2,12 @@
 
 
 
-DIÁLOGOS DE ANHYDRA
-INSTALACIÓN INTERACTIVA
+//DIÁLOGOS DE ANHYDRA
+//INSTALACIÓN INTERACTIVA
 
 
 
-El símbolo ༄ indica lo que debe ejecutarse.
+//El símbolo ༄ indica lo que debe ejecutarse.
 
 
 
