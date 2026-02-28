@@ -1,18 +1,9 @@
-
-
-
-
 //DIÁLOGOS DE ANHYDRA
 //INSTALACIÓN INTERACTIVA
 
-
-
 //El símbolo ༄ indica lo que debe ejecutarse.
 
-
-
 ( ༄ // RUTAS
-
 
 //rutas de archivos para ambientación (importante insertar las carpetas y audios indicados)
 (
